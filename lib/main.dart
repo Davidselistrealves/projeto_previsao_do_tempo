@@ -46,5 +46,6 @@ void main() => runApp(
             ),
           ),
         ),
+        themeMode: ThemeMode.dark,
       ),
     );
